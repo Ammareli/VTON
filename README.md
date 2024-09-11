@@ -3,7 +3,10 @@
 ## Overview
 
 This project showcases a **Virtual Try-On** system that uses the advanced capabilities of **Stable Diffusion 1.5** and **CAT-VTON** to deliver a realistic virtual clothing experience. The application is designed to help users visualize how different outfits will look on them before making a purchase or simply experimenting with styles.
-https://github.com/user-attachments/assets/b7cf9690-8928-4ee2-8969-dc3753dd5b6e
+## Demo Video
+
+[![Watch the video](https://img.icons8.com/ios-filled/50/000000/video-playlist.png)](https://github.com/user-attachments/assets/b7cf9690-8928-4ee2-8969-dc3753dd5b6e)
+
 ## Key Technologies
 
 - **Stable Diffusion 1.5**: Provides high-quality, realistic image generation, allowing users to see how clothes would appear on them with stunning detail and accuracy.
